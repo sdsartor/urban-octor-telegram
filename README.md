@@ -9,6 +9,8 @@ This website was created in order to fix an issue with deployment of another web
 
 To create this website, the file had to be added to the local repository and the HTML file needed to be pulled out of the develop folder as well as the assets.  This would place the two files to be on the same branch and remove the separation making the CSS file readable by git pages.
 
+[alt text](http://url/to/img.png)
+
 ## Usage
 
 This website provides many images that expand the imagery the website is trying to present.
