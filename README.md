@@ -11,7 +11,7 @@ To create this website, the file had to be added to the local repository and the
 
 ## Usage
 
-This website provides many images expand the imagery the website was trying to present.
+This website provides many images that expand the imagery the website is trying to present.
 
 ## License
 
